@@ -28,7 +28,7 @@ Creates a 360 degree view of data for its users
 Easily create your own data exchange to collaborate securely across your business ecosystem. Access additional shared data sets and data services via Snowflake Data Marketplace, and connect similarly with thousands of Snowflake customers that comprise the greater Data Cloud.
 
 ## Contributors: 
-Emmanuel
-Lawrence
-Harish
+- Emmanuel
+- Lawrence
+- Harish
 
