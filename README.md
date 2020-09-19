@@ -3,13 +3,13 @@
 ![Snowflake](https://1amiydhcmj36tz3733v94f15-wpengine.netdna-ssl.com/wp-content/themes/snowflake/assets/img/logo-blue.svg)
 
 
-##description:
+## Description:
 
 
 Description content: Content for the description
 
 
-##Contributors: 
+## ontributors: 
 Emmanuel
 Lawrence
 Harish
