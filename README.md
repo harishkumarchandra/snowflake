@@ -9,7 +9,7 @@
 Description content: Content for the description
 
 
-## ontributors: 
+## Contributors: 
 Emmanuel
 Lawrence
 Harish
