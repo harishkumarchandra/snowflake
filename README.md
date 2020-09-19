@@ -1,4 +1,4 @@
-![Snowflake](https://1amiydhcmj36tz3733v94f15-wpengine.netdna-ssl.com/wp-content/themes/snowflake/assets/img/logo-blue.svg) # FinTech case study
+# FinTech case study ![Snowflake](https://1amiydhcmj36tz3733v94f15-wpengine.netdna-ssl.com/wp-content/themes/snowflake/assets/img/logo-blue.svg) 
 
 
 ## Description:
