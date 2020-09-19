@@ -3,19 +3,17 @@
 ![Snowflake](https://1amiydhcmj36tz3733v94f15-wpengine.netdna-ssl.com/wp-content/themes/snowflake/assets/img/logo-blue.svg)
 
 
-H2 description: A description header
+##description:
 
 
 Description content: Content for the description
 
 
-Contributors: The names of everyone in your group
+##Contributors: 
+Emmanuel
+Lawrence
+Harish
 
-
-H3 heading: A title for the FinTech case study report
-
-
-Case study content: Content for the case study
 
 How does this company use technology to their advantage? 
 Snowflake offers a cloud-based data storage and analytics service, generally termed "data warehouse-as-a-service"
