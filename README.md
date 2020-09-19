@@ -14,6 +14,22 @@ Snowflake offers a cloud-based data storage and analytics service, generally ter
 * Why are they considered a FinTech company?
 SNOWFLAKE FOR FINANCIAL SERVICES, Leverage the power of your data to drive personalized experiences, improved business efficiency, and proactive risk mitigation.
 
+What are the company's strengths?
+
+Strengths
+Well designed
+Easy to use
+Great deal of application potential
+Can run data on multiple clouds and regions for a single and consistent experience 
+Share data more easily and more securely
+Allows multiple teams to access and work on the same data
+Can be used across many different industries and not just finance 
+
+What makes Snowflake an exceptional fintech company?
+Snowflake makes gathering, processing using big data easy
+Creates a 360 degree view of data for its users
+Easily create your own data exchange to collaborate securely across your business ecosystem. Access additional shared data sets and data services via Snowflake Data Marketplace, and connect similarly with thousands of Snowflake customers that comprise the greater Data Cloud.
+
 ## Contributors: 
 Emmanuel
 Lawrence
