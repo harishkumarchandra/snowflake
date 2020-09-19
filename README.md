@@ -1,6 +1,4 @@
-# FinTech case study on Snowflake
-
-![Snowflake](https://1amiydhcmj36tz3733v94f15-wpengine.netdna-ssl.com/wp-content/themes/snowflake/assets/img/logo-blue.svg)
+![Snowflake](https://1amiydhcmj36tz3733v94f15-wpengine.netdna-ssl.com/wp-content/themes/snowflake/assets/img/logo-blue.svg)# FinTech case study
 
 
 ## Description:
